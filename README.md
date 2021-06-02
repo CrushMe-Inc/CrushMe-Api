@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://crushme.me/img/logo.png" width="128px" style="max-width:100%;">
+    <img src="https://avatars.githubusercontent.com/u/71193237?s=200&v=4" width="128px" style="max-width:100%;">
     <h1>CrushMe Api</h1>
 </div>
  
